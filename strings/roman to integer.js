@@ -34,4 +34,4 @@ function romanToDecimal(s) {
     return res;
 }
 let roman = "V"
-romanToDecimal(roman);
+console.log(romanToDecimal(roman));
